@@ -1,0 +1,1952 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EDG_Mamou
+</name>
+</assembly>
+<members>
+<member name="P:EDG_Mamou.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.__">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources._10530895_900447206649789_400342661687118501_n">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources._25___Icon_A_Day__My_Pictures_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources._date">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources._Error">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources._exit">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.access8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Acorbat">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.acroread">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.advancedsettings">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.apple_logo">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Apple_something__ico">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.apply">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.apply3">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.ark2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.away22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.be_right_back22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Bin__empty_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.build">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.busy22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.button_cancel">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.button_ok">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.cal">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.calb3112edg_adm1_jpg_">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.calb3112edg_adm1_jpg_1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.cap_des_biches_3_592x296">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.clean">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Community_Helpf">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Community_Helps">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.config">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.configure">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Critical">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Critical1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.database">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.database1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.default_avatar">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.default_avatar1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.depannage_electricitef">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.doc_excel_original">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.doc_powerpoint_original">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.doc_word_original">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.down">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.easymoblog">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.easymoblog1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.EDG_0">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.EDG_2_400x300s">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.EDG_696x593_1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.EDG_logo_705x400_1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.EDG_logo_705x400_1_1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.EDG_Transformation_696x522bb">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.edit_add">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.edit_remove">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.editdelete">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.editdelete1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.électricité_640x360s">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.electricite_labes">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.electricite_labes1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.electricite_labes2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.email_256">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.encrypted">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.excel333">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.excel8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.exec">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.file_locked">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.flat_seo_23_256">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.folder_home">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.folder_locked">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.gaimphone2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.gimp">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.gohome">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.home">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.ie">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.info">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Information">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.internet">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.invisible22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kaddressbook">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kate">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kdmconfig">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kdmconfig___Copie">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kfm_home">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kfm_home1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kghostview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.ktip">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kuser">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kview">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kwalletmanager">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.kworldclock">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.LaST__Cobalt__Briefcase">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.lignes_electriques_trt_0v">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.linneighborhood">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.linphone">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Lock">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.logout">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.loopnone">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.lphoto">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.mail22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.messenger_1495274_640">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.msn_4">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.My_Computer44">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.OK">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.on_the_phone22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.onenote8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.online22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.out_to_lunch22">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.outlook333">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.outlook8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.package_favourite">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.PDF">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.photoshop">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.picture_manager8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.playlist">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.plus_symbol">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.powerpoint333">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.powerpoint8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Printers___Faxes">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.printmgr">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.printmgraaaaa">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.publisher8">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Question">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.QuestionCloud">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Sans_titre">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Sans_titre_1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Sans_titre1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Sans_titre2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EDG_Mamou.My.Resources.Resources.Sign_LogOff_icon">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:EDG_Mamou.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.AFFECTATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.BATIMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CATEGORIE_BATIMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CLIENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CONSOMMATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DEPARTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.EVENEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.HISTORIQUEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.HISTORIQUE_CONNEXIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.INTERVENTIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.MESSAGERIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.OPERATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PAIEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PERSONNELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.POSTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PRELEVEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.RAPPORT_ADMINDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.REMPLACEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.SERVICEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.TOURNEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.UTILISATEURDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.ZONEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.AFFECTATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.BATIMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CATEGORIE_BATIMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CLIENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CONSOMMATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DEPARTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.EVENEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.HISTORIQUERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.HISTORIQUE_CONNEXIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.INTERVENTIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.MESSAGERIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.OPERATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PAIEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PERSONNELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.POSTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PRELEVEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.RAPPORT_ADMINRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.REMPLACEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.SERVICERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.TOURNERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.UTILISATEURRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.ZONERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.AFFECTATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.BATIMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CATEGORIE_BATIMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CLIENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.CONSOMMATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DEPARTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.EVENEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.HISTORIQUERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.HISTORIQUE_CONNEXIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.INTERVENTIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.MESSAGERIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.OPERATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PAIEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PERSONNELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.POSTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.PRELEVEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.RAPPORT_ADMINRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.REMPLACEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.SERVICERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.TOURNERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.UTILISATEURRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.ZONERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_server">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.AFFECTATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.BATIMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.CATEGORIE_BATIMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.CLIENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.CONSOMMATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.DEPARTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.EVENEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.HISTORIQUETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.HISTORIQUE_CONNEXIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.INTERVENTIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.MESSAGERIETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.OPERATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.PAIEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.PERSONNELTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.POSTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.PRELEVEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.RAPPORT_ADMINTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.REMPLACEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.SERVICETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TOURNETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.UTILISATEURTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.ZONETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.UpdateUpdatedRows(EDG_Mamou.EDG_Mamou_G8_DataSet_server,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.UpdateInsertedRows(EDG_Mamou.EDG_Mamou_G8_DataSet_server,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.UpdateDeletedRows(EDG_Mamou.EDG_Mamou_G8_DataSet_server,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.UpdateAll(EDG_Mamou.EDG_Mamou_G8_DataSet_server)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_serverTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.AFFECTATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.BATIMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CATEGORIE_BATIMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CLIENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CONSOMMATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DEPARTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.EVENEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.HISTORIQUEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.HISTORIQUE_CONNEXIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.INTERVENTIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.MESSAGERIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.OPERATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PAIEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PERSONNELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.POSTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PRELEVEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.RAPPORT_ADMINDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.REMPLACEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.SERVICEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.TOURNEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.UTILISATEURDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.ZONEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PERSONNEL1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.RAPPORT_ADMIN1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PAIEMENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.INTERVENTION1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.BATIMENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CLIENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.OPERATION1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.AFFECTATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.BATIMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CATEGORIE_BATIMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CLIENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CONSOMMATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DEPARTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.EVENEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.HISTORIQUERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.HISTORIQUE_CONNEXIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.INTERVENTIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.MESSAGERIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.OPERATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PAIEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PERSONNELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.POSTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PRELEVEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.RAPPORT_ADMINRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.REMPLACEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.SERVICERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.TOURNERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.UTILISATEURRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.ZONERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PERSONNEL1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.RAPPORT_ADMIN1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PAIEMENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.INTERVENTION1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.BATIMENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CLIENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.OPERATION1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.AFFECTATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.BATIMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CATEGORIE_BATIMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CLIENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CONSOMMATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DEPARTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.EVENEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.HISTORIQUERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.HISTORIQUE_CONNEXIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.INTERVENTIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.MESSAGERIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.OPERATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PAIEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PERSONNELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.POSTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PRELEVEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.RAPPORT_ADMINRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.REMPLACEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.SERVICERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.TOURNERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.UTILISATEURRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.ZONERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PERSONNEL1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.RAPPORT_ADMIN1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.PAIEMENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.INTERVENTION1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.BATIMENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.CLIENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.OPERATION1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_original">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.AFFECTATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.BATIMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.CATEGORIE_BATIMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.CLIENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.CONSOMMATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.DEPARTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.EVENEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.HISTORIQUETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.HISTORIQUE_CONNEXIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.INTERVENTIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.MESSAGERIETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.OPERATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.PAIEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.PERSONNELTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.POSTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.PRELEVEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.RAPPORT_ADMINTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.REMPLACEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.SERVICETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TOURNETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.UTILISATEURTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.ZONETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.PERSONNEL1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.RAPPORT_ADMIN1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.PAIEMENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.INTERVENTION1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.BATIMENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.CLIENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.OPERATION1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.UpdateUpdatedRows(EDG_Mamou.EDG_Mamou_G8_DataSet_original,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.UpdateInsertedRows(EDG_Mamou.EDG_Mamou_G8_DataSet_original,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.UpdateDeletedRows(EDG_Mamou.EDG_Mamou_G8_DataSet_original,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.UpdateAll(EDG_Mamou.EDG_Mamou_G8_DataSet_original)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8_DataSet_originalTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.AFFECTATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.BATIMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CATEGORIE_BATIMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CLIENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CONSOMMATIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.DEPARTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.EVENEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.HISTORIQUEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.INTERVENTIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.MESSAGERIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PAIEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PERSONNELDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.POSTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PRELEVEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.RAPPORT_ADMINDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.REMPLACEMENTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.SERVICEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.TOURNEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.UTILISATEURDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.ZONEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CLIENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PAIEMENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.EVENEMENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PERSONNEL1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.BATIMENT1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.INTERVENTION1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.AFFECTATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.BATIMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CATEGORIE_BATIMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CLIENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CONSOMMATIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.DEPARTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.EVENEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.HISTORIQUERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.INTERVENTIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.MESSAGERIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PAIEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PERSONNELRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.POSTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PRELEVEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.RAPPORT_ADMINRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.REMPLACEMENTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.SERVICERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.TOURNERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.UTILISATEURRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.ZONERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CLIENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PAIEMENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.EVENEMENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PERSONNEL1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.BATIMENT1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.INTERVENTION1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.AFFECTATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.BATIMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CATEGORIE_BATIMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CLIENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CONSOMMATIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.DEPARTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.EVENEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.HISTORIQUERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.INTERVENTIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.MESSAGERIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PAIEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PERSONNELRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.POSTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PRELEVEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.RAPPORT_ADMINRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.REMPLACEMENTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.SERVICERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.TOURNERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.UTILISATEURRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.ZONERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.CLIENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PAIEMENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.EVENEMENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.PERSONNEL1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.BATIMENT1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet.INTERVENTION1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.AFFECTATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.BATIMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.CATEGORIE_BATIMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.CLIENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.CONSOMMATIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.DEPARTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.EVENEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.HISTORIQUETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.INTERVENTIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.MESSAGERIETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.PAIEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.PERSONNELTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.POSTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.PRELEVEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.RAPPORT_ADMINTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.REMPLACEMENTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.SERVICETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TOURNETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.UTILISATEURTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.ZONETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.CLIENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.PAIEMENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.EVENEMENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.PERSONNEL1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.BATIMENT1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.INTERVENTION1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.QueriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(EDG_Mamou.EDG_Mamou_G8DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(EDG_Mamou.EDG_Mamou_G8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(EDG_Mamou.EDG_Mamou_G8DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.UpdateAll(EDG_Mamou.EDG_Mamou_G8DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EDG_Mamou.EDG_Mamou_G8DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

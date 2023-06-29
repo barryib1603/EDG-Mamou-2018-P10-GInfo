@@ -1,0 +1,1077 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DE91FAC-0511-400B-9C4D-695B0CC245AE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>EDG_Mamou.My.MyApplication</StartupObject>
+    <RootNamespace>EDG_Mamou</RootNamespace>
+    <AssemblyName>EDG_Mamou</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\..\EDG_MAMOU_SETUP\</OutputPath>
+    <DocumentationFile>EDG_Mamou.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>EDG_Mamou.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\EDG_logo-705x400-1~1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Categories.designer.vb">
+      <DependentUpon>Categories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Categories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataGridViewPrint.vb" />
+    <Compile Include="EDG_Mamou_G8DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDG_Mamou_G8DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EDG_Mamou_G8DataSet.vb">
+      <DependentUpon>EDG_Mamou_G8DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EDG_Mamou_G8_DataSet_original.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDG_Mamou_G8_DataSet_original.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EDG_Mamou_G8_DataSet_server.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EDG_Mamou_G8_DataSet_server.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_activites.Designer.vb">
+      <DependentUpon>Form1_activites.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_activites.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_depart.Designer.vb">
+      <DependentUpon>Form1_depart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_depart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_Evenement.Designer.vb">
+      <DependentUpon>Form1_Evenement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_Evenement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_imprime_facture_originale.Designer.vb">
+      <DependentUpon>Form1_imprime_facture_originale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_imprime_facture_originale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_imprime_recepice.Designer.vb">
+      <DependentUpon>Form1_imprime_recepice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_imprime_recepice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_modifier_profil.Designer.vb">
+      <DependentUpon>Form1_modifier_profil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_modifier_profil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_poste.Designer.vb">
+      <DependentUpon>Form1_poste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_poste.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_profil.Designer.vb">
+      <DependentUpon>Form1_profil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_profil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_rapport.Designer.vb">
+      <DependentUpon>Form1_rapport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_rapport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_sauvegarder_restaurer.Designer.vb">
+      <DependentUpon>Form1_sauvegarder_restaurer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_sauvegarder_restaurer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1_statitstique.Designer.vb">
+      <DependentUpon>Form1_statitstique.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_statitstique.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2_connexion.designer.vb">
+      <DependentUpon>Form2_connexion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2_connexion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2_menu_principal.designer.vb">
+      <DependentUpon>Form2_menu_principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2_menu_principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Facture_non_payé.Designer.vb">
+      <DependentUpon>Form_Facture_non_payé.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Facture_non_payé.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Gestion_comptes.Designer.vb">
+      <DependentUpon>Form_Gestion_comptes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Gestion_comptes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Historiq_connexion.Designer.vb">
+      <DependentUpon>Form_Historiq_connexion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Historiq_connexion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_impression_evenement.Designer.vb">
+      <DependentUpon>Form_impression_evenement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_impression_evenement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_fiche_batiment.Designer.vb">
+      <DependentUpon>Form_Impression_fiche_batiment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_fiche_batiment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_fiche_personnel.Designer.vb">
+      <DependentUpon>Form_Impression_fiche_personnel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_fiche_personnel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_Intervention_Individuelle.Designer.vb">
+      <DependentUpon>Form_Impression_Intervention_Individuelle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_Intervention_Individuelle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_Liste_Interventionl.Designer.vb">
+      <DependentUpon>Form_Impression_Liste_Interventionl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_Liste_Interventionl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_impression_liste_paiement.Designer.vb">
+      <DependentUpon>Form_impression_liste_paiement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_impression_liste_paiement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Impression_liste_personnel.Designer.vb">
+      <DependentUpon>form_Impression_liste_personnel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_Impression_liste_personnel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_impression_poste.Designer.vb">
+      <DependentUpon>Form_impression_poste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_impression_poste.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_Rapport.Designer.vb">
+      <DependentUpon>Form_Impression_Rapport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_Rapport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_recu_paiement.Designer.vb">
+      <DependentUpon>Form_Impression_recu_paiement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_recu_paiement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Impression_recu_versement.Designer.vb">
+      <DependentUpon>Form_Impression_recu_versement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Impression_recu_versement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_impression_remplacement.Designer.vb">
+      <DependentUpon>Form_impression_remplacement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_impression_remplacement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impression.Designer.vb">
+      <DependentUpon>Impression.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Impression.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impression_Fiche_client.Designer.vb">
+      <DependentUpon>Impression_Fiche_client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Impression_Fiche_client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impression_liste_batiment.Designer.vb">
+      <DependentUpon>Impression_liste_batiment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Impression_liste_batiment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impression_liste_client.Designer.vb">
+      <DependentUpon>Impression_liste_client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Impression_liste_client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Service.designer.vb">
+      <DependentUpon>Service.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Service.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBatiments.designer.vb">
+      <DependentUpon>frmBatiments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBatiments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClient.designer.vb">
+      <DependentUpon>frmClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTourne.designer.vb">
+      <DependentUpon>frmTourne.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTourne.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserControl1_affectation.Designer.vb">
+      <DependentUpon>UserControl1_affectation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_affectation.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_client.designer.vb">
+      <DependentUpon>UserControl1_client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_client.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_batiment.Designer.vb">
+      <DependentUpon>UserControl1_batiment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_batiment.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_evenement.Designer.vb">
+      <DependentUpon>UserControl1_evenement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_evenement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_facturation.Designer.vb">
+      <DependentUpon>UserControl1_facturation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_facturation.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_intervention.Designer.vb">
+      <DependentUpon>UserControl1_intervention.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_intervention.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_lire_message.Designer.vb">
+      <DependentUpon>UserControl1_lire_message.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_lire_message.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_message_envoyé.Designer.vb">
+      <DependentUpon>UserControl1_message_envoyé.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_message_envoyé.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_message_réçu.Designer.vb">
+      <DependentUpon>UserControl1_message_réçu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_message_réçu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_nouveau_message.Designer.vb">
+      <DependentUpon>UserControl1_nouveau_message.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_nouveau_message.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_paiements.designer.vb">
+      <DependentUpon>UserControl1_paiements.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_paiements.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_poste.Designer.vb">
+      <DependentUpon>UserControl1_poste.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_poste.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_prelevement.Designer.vb">
+      <DependentUpon>UserControl1_prelevement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_prelevement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Personnel.designer.vb">
+      <DependentUpon>Personnel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Personnel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserControl1_Rapport.Designer.vb">
+      <DependentUpon>UserControl1_Rapport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_Rapport.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_remplacement.Designer.vb">
+      <DependentUpon>UserControl1_remplacement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_remplacement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1_utilisateur.Designer.vb">
+      <DependentUpon>UserControl1_utilisateur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1_utilisateur.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="usercontroler2_personnel.designer.vb">
+      <DependentUpon>usercontroler2_personnel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="usercontroler2_personnel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Zone.Designer.vb">
+      <DependentUpon>Zone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Zone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Categories.resx">
+      <DependentUpon>Categories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_activites.resx">
+      <DependentUpon>Form1_activites.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_depart.resx">
+      <DependentUpon>Form1_depart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_Evenement.resx">
+      <DependentUpon>Form1_Evenement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_imprime_facture_originale.resx">
+      <DependentUpon>Form1_imprime_facture_originale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_imprime_recepice.resx">
+      <DependentUpon>Form1_imprime_recepice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_modifier_profil.resx">
+      <DependentUpon>Form1_modifier_profil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_poste.resx">
+      <DependentUpon>Form1_poste.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_profil.resx">
+      <DependentUpon>Form1_profil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_rapport.resx">
+      <DependentUpon>Form1_rapport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_sauvegarder_restaurer.resx">
+      <DependentUpon>Form1_sauvegarder_restaurer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1_statitstique.resx">
+      <DependentUpon>Form1_statitstique.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2_connexion.resx">
+      <DependentUpon>Form2_connexion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2_menu_principal.resx">
+      <DependentUpon>Form2_menu_principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Facture_non_payé.resx">
+      <DependentUpon>Form_Facture_non_payé.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Gestion_comptes.resx">
+      <DependentUpon>Form_Gestion_comptes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Historiq_connexion.resx">
+      <DependentUpon>Form_Historiq_connexion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_impression_evenement.resx">
+      <DependentUpon>Form_impression_evenement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_fiche_batiment.resx">
+      <DependentUpon>Form_Impression_fiche_batiment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_fiche_personnel.resx">
+      <DependentUpon>Form_Impression_fiche_personnel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_Intervention_Individuelle.resx">
+      <DependentUpon>Form_Impression_Intervention_Individuelle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_Liste_Interventionl.resx">
+      <DependentUpon>Form_Impression_Liste_Interventionl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_impression_liste_paiement.resx">
+      <DependentUpon>Form_impression_liste_paiement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Impression_liste_personnel.resx">
+      <DependentUpon>form_Impression_liste_personnel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_impression_poste.resx">
+      <DependentUpon>Form_impression_poste.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_Rapport.resx">
+      <DependentUpon>Form_Impression_Rapport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_recu_paiement.resx">
+      <DependentUpon>Form_Impression_recu_paiement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Impression_recu_versement.resx">
+      <DependentUpon>Form_Impression_recu_versement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_impression_remplacement.resx">
+      <DependentUpon>Form_impression_remplacement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impression.resx">
+      <DependentUpon>Impression.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impression_Fiche_client.resx">
+      <DependentUpon>Impression_Fiche_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impression_liste_batiment.resx">
+      <DependentUpon>Impression_liste_batiment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impression_liste_client.resx">
+      <DependentUpon>Impression_liste_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report3_facture_original.rdlc" />
+    <EmbeddedResource Include="Report_evenement.rdlc" />
+    <EmbeddedResource Include="Report_Impression_Facture.rdlc" />
+    <EmbeddedResource Include="Report_Impression_Fiche_Bat.rdlc" />
+    <EmbeddedResource Include="Report_Impression_fiche_client.rdlc" />
+    <EmbeddedResource Include="Report_impression_fiche_personnel.rdlc" />
+    <EmbeddedResource Include="Report_Impression_liste_batiment.rdlc" />
+    <EmbeddedResource Include="Report_Impression_Liste_Client.rdlc" />
+    <EmbeddedResource Include="Report_Impression_Liste_intervention.rdlc" />
+    <EmbeddedResource Include="Report_Impression_liste_Paiement.rdlc" />
+    <EmbeddedResource Include="Report_Impression_Liste_personnel.rdlc" />
+    <EmbeddedResource Include="Report_Impression_Liste_Poste.rdlc" />
+    <EmbeddedResource Include="Report_Impression_liste_Remplacement.rdlc" />
+    <EmbeddedResource Include="Report_intervention_indivi.rdlc" />
+    <EmbeddedResource Include="Report_Ipression_Fiche_Individuelle.rdlc" />
+    <EmbeddedResource Include="Report_rapport_d_activite.rdlc" />
+    <EmbeddedResource Include="Report_recepice_batiment.rdlc" />
+    <EmbeddedResource Include="Report_recu_paiement.rdlc" />
+    <EmbeddedResource Include="Report_reçu_Versement.rdlc" />
+    <EmbeddedResource Include="Service.resx">
+      <DependentUpon>Service.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBatiments.resx">
+      <DependentUpon>frmBatiments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClient.resx">
+      <DependentUpon>frmClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTourne.resx">
+      <DependentUpon>frmTourne.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_affectation.resx">
+      <DependentUpon>UserControl1_affectation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_client.resx">
+      <DependentUpon>UserControl1_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_batiment.resx">
+      <DependentUpon>UserControl1_batiment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_evenement.resx">
+      <DependentUpon>UserControl1_evenement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_facturation.resx">
+      <DependentUpon>UserControl1_facturation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_intervention.resx">
+      <DependentUpon>UserControl1_intervention.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_lire_message.resx">
+      <DependentUpon>UserControl1_lire_message.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_message_envoyé.resx">
+      <DependentUpon>UserControl1_message_envoyé.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_message_réçu.resx">
+      <DependentUpon>UserControl1_message_réçu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_nouveau_message.resx">
+      <DependentUpon>UserControl1_nouveau_message.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_paiements.resx">
+      <DependentUpon>UserControl1_paiements.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_poste.resx">
+      <DependentUpon>UserControl1_poste.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_prelevement.resx">
+      <DependentUpon>UserControl1_prelevement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personnel.resx">
+      <DependentUpon>Personnel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_Rapport.resx">
+      <DependentUpon>UserControl1_Rapport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_remplacement.resx">
+      <DependentUpon>UserControl1_remplacement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1_utilisateur.resx">
+      <DependentUpon>UserControl1_utilisateur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="usercontroler2_personnel.resx">
+      <DependentUpon>usercontroler2_personnel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zone.resx">
+      <DependentUpon>Zone.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="EDG_Mamou_G8DataSet.xsc">
+      <DependentUpon>EDG_Mamou_G8DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EDG_Mamou_G8DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EDG_Mamou_G8DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EDG_Mamou_G8DataSet.xss">
+      <DependentUpon>EDG_Mamou_G8DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EDG_Mamou_G8_DataSet_original.xsc">
+      <DependentUpon>EDG_Mamou_G8_DataSet_original.xsd</DependentUpon>
+    </None>
+    <None Include="EDG_Mamou_G8_DataSet_original.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EDG_Mamou_G8_DataSet_original.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EDG_Mamou_G8_DataSet_original.xss">
+      <DependentUpon>EDG_Mamou_G8_DataSet_original.xsd</DependentUpon>
+    </None>
+    <None Include="EDG_Mamou_G8_DataSet_server.xsc">
+      <DependentUpon>EDG_Mamou_G8_DataSet_server.xsd</DependentUpon>
+    </None>
+    <None Include="EDG_Mamou_G8_DataSet_server.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EDG_Mamou_G8_DataSet_server.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EDG_Mamou_G8_DataSet_server.xss">
+      <DependentUpon>EDG_Mamou_G8_DataSet_server.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\!.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\access8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Acorbat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acroread.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\advancedsettings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ark2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\away22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\be_right_back22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bin %28empty%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\build.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busy22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_ok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calb3112edg_adm1_jpg&amp;.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calb3112edg_adm1_jpg&amp;1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Critical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\date.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_excel_original.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_powerpoint_original.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc_word_original.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDG_0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editdelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\encrypted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_locked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_locked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaimphone2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gimp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gohome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\internet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisible22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaddressbook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kdmconfig.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kfm_home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kghostview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ktip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kwalletmanager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kworldclock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LaST %28Cobalt%29 Briefcase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linneighborhood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linphone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loopnone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lphoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mail22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\msn 4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My Computer44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on_the_phone22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\onenote8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\out_to_lunch22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outlook8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\outlook333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package_favourite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photoshop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture manager8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\powerpoint8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\powerpoint333.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printers &amp; Faxes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printmgr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publisher8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuestionCloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign-LogOff-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10530895_900447206649789_400342661687118501_n.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Critical1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\default-avatar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\default-avatar1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDG_logo-705x400-1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDG_logo-705x400-1~1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25 - Icon-A-Day %28My Pictures%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\messenger-1495274_640.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flat_seo-23-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editdelete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configure.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electricite-labes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electricite-labes1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\easymoblog.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\electricite-labes2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lignes_electriques_trt_0v.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depannage-electricitef.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDG-2-400x300s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDG-Transformation-696x522bb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDG-696x593-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Community Helps.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cap-des-biches-3-592x296.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apple something. ico.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Community Helpf.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\électricité-640x360s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kdmconfig - Copie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\easymoblog.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printmgraaaaa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
